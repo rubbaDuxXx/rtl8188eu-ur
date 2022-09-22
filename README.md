@@ -7,7 +7,7 @@ Enable RTL8188EU compatible USB WIFI dongle for Universal Robot.
 This document assumes you have
 - root access on your UR robot
 - working internet connection (on your robot)
-- Compatible Wifi USB Dongle (e.g. TP-Link 725N)
+- Compatible Wifi USB Dongle (e.g. [TP-Link TL-WN725N](https://www.amazon.de/-/en/TP-Link-TL-WN725N-Adaptor-Suitable-10-9-10-13) )
 
 ## Add debian repos
 First, enable apt-get by adding the official repos for Depian Jessie
