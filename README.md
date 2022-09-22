@@ -4,6 +4,9 @@ Enable RTL8188EU compatible USB WIFI dongle for Universal Robot.
 # DISCLAIMER
 **USE AT YOUR OWN RISK. Be sure to make a backup of your robot first. THIS IS FOR RESEARCH PURPOSES ONLY.**
 
+Tested with PolyScope 5.11
+
+# Instructions
 This document assumes you have
 - root access on your UR robot
 - working internet connection (on your robot)
